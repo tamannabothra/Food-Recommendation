@@ -1,0 +1,5 @@
+Python 3.9
+pip install streamlit
+pip install sklearn
+pip install numpy
+pip install scipy.sparse
